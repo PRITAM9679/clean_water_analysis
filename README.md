@@ -11,6 +11,6 @@ We need to create a website in which we have connected the MYQL database with th
 
 <br><br>
 <h3>Highlights of the Project</h3><hr>
-<h5><u> Roadmap</u>:-</h5><br>
+<h4><u> Roadmap</u>:-</h4><br>
 <img src="/clean_water/images/roadmap.PNG" height=600 width=800>
 <br><br>
