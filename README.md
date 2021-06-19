@@ -11,6 +11,17 @@ We need to create a website in which we have connected the MYQL database with th
 
 <br><br>
 <h3>Highlights of the Project</h3><hr>
-<h4><u> Roadmap</u>:-</h4><br>
+<h3><u> Roadmap</u>:-</h3><br>
 <img src="/clean_water/images/roadmap.PNG" height=600 width=800>
 <br><br>
+Here <b>Random Classifier</b> is used for the prediction and the whole prediction has got an accuracy of 100%. The prediction of the Machine Learning Model got from the users through the form.<br>
+<img src="/clean_water_analysis/images/form.PNG" height=300 width=400>
+<img src="/clean_water_analysis/images/ML Pred1.PNG" height=300 width=400><br>
+The database of the whole data can be obtained from:- 
+<br>
+<img src="/clean_water-analysis/images/database.PNG">
+
+<br><br>
+Please import the database files named "db files" in MYSQL or XAMPP before using the files.  
+
+
