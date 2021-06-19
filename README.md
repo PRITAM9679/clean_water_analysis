@@ -15,8 +15,8 @@ We need to create a website in which we have connected the MYQL database with th
 <img src="/clean_water/images/roadmap.PNG" height=600 width=800>
 <br><br>
 Here <b>Random Classifier</b> is used for the prediction and the whole prediction has got an accuracy of 100%. The prediction of the Machine Learning Model got from the users through the form.<br>
-<img src="/clean_water/images/form.PNG" height=200 width=300>
-<img src="/clean_water/images/ML Pred1.PNG" height=200 width=300><br>
+<img src="/clean_water/images/form.PNG">
+<img src="/clean_water/images/ML Pred1.PNG"><br>
 The database of the whole data can be obtained from:- 
 <br>
 <img src="/clean_water/images/database.PNG">
